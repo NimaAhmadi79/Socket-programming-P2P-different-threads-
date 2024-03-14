@@ -19,13 +19,7 @@ This project aims to implement a peer-to-peer system for rumor spreading in a di
 - there are some default and random sample rumors and users can add some rumors by sending the new ones.
 - remember you should first tap start-server in each peer and then you can connect to them
   - Example:
-    ```
-    peer 10.11.12.15:1200
-    rumor This is a rumor.
-    peer 10.11.12.13:40 
-    peer 10.11.12.14:48
-    rumor Another rumor.
-    ```
+   ![alt text](https://github.com/NimaAhmadi79/Socket-programming-P2P-different-threads-/blob/master/Capture.PNG)
 - Each peer should report its activities by printing messages.
 
 ## Important Notes
